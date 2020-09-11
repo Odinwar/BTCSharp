@@ -1,0 +1,13 @@
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.exe
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.deps.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.runtimeconfig.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.runtimeconfig.dev.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\bin\Debug\netcoreapp3.1\Bai35.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.csprojAssemblyReference.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.AssemblyInfoInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.AssemblyInfo.cs
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.csproj.CoreCompileInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai35\obj\Debug\netcoreapp3.1\Bai35.genruntimeconfig.cache

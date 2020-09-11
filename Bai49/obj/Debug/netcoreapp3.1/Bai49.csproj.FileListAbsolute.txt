@@ -1,0 +1,13 @@
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.exe
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.deps.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.runtimeconfig.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.runtimeconfig.dev.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\bin\Debug\netcoreapp3.1\Bai49.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.csprojAssemblyReference.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.AssemblyInfoInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.AssemblyInfo.cs
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.csproj.CoreCompileInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai49\obj\Debug\netcoreapp3.1\Bai49.genruntimeconfig.cache

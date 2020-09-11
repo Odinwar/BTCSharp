@@ -1,0 +1,12 @@
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.AssemblyInfoInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.AssemblyInfo.cs
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.csproj.CoreCompileInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.exe
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.deps.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.runtimeconfig.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.runtimeconfig.dev.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\bin\Debug\netcoreapp3.1\Bai12.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai12\obj\Debug\netcoreapp3.1\Bai12.genruntimeconfig.cache

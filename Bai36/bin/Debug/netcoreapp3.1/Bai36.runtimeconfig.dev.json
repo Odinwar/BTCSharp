@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vanquy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vanquy\\.nuget\\packages"
+    ]
+  }
+}

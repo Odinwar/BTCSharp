@@ -1,0 +1,12 @@
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.exe
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.deps.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.runtimeconfig.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.runtimeconfig.dev.json
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\bin\Debug\netcoreapp3.1\Bai19.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.AssemblyInfoInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.AssemblyInfo.cs
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.csproj.CoreCompileInputs.cache
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.dll
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.pdb
+C:\Users\Vanquy\source\repos\BTCSharp\Bai19\obj\Debug\netcoreapp3.1\Bai19.genruntimeconfig.cache
